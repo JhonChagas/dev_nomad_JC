@@ -1,0 +1,23 @@
+{
+  "name": "dev_nomad",
+  "version": "0.0.1",
+  "description": "Backend Javascript SOLID Clean Architecture Engine Infrastruture",
+  "keywords": [
+    "turma12"
+  ],
+  "homepage": "https://github.com/victoricoma/dev_nomad#readme",
+  "bugs": {
+    "url": "https://github.com/victoricoma/dev_nomad/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victoricoma/dev_nomad.git"
+  },
+  "license": "MIT",
+  "author": "Victor Icoma",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
